@@ -3,6 +3,8 @@ bin/
 Scripts/
 lib/
 include/
+etc/
+share/
 .ipynb_checkpoints/
 
 pip-selfcheck.json
