@@ -1,0 +1,10 @@
+__pychache__/
+bin/
+Scripts/
+lib/
+include/
+.ipynb_checkpoints/
+
+pip-selfcheck.json
+pyvenv.cfg
+
