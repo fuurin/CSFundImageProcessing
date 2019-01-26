@@ -82,7 +82,7 @@ def battle(Pokemon1, Pokemon2,verbose=False,resetHP=True):
         return 2
 
     rounds=0
-    maxRounds=1000
+    maxRounds=100
     while Pokemon1.hitpoint[1]>0 and Pokemon2.hitpoint[1]>0 and rounds<maxRounds:
 
         speed1=Pokemon1.speed*round(random.uniform(0.8,1.2),3)
