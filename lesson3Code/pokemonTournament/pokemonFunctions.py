@@ -25,6 +25,10 @@ def readPokemonTypeFromLine(line):
     #number, number name name types
     readList=line.split(" ")
     typeList=[]
+    
+    # Lines with 2 #s have week point types. So they should be ignored
+    if readList[1][0] != '#': return(readList[2], typeList)
+    
     for i in range(4,len(readList)):
         typeList.append(readList[i].rstrip())
     #print("pokemon "+str(readList[2])+" has type(s) "+str(typeList))
@@ -73,7 +77,7 @@ def battle(Pokemon1, Pokemon2,verbose=False,resetHP=True):
     if notEffective(Pokemon2, Pokemon1):
         if(verbose):print(Pokemon2.name+" is not very Effective against "+Pokemon1.name)
         attackCenter2-=effectiveness
-    if noEffect(Pokemon1, Pokemon2):
+    if noEffect(Pokemon2, Pokemon1):
         if(verbose):print(Pokemon2.name+" has no Effect against "+Pokemon1.name)
         attackCenter2=-0.5
 
