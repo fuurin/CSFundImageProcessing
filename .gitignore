@@ -6,6 +6,7 @@ include/
 etc/
 share/
 .ipynb_checkpoints/
+*.tiff*
 
 pip-selfcheck.json
 pyvenv.cfg
