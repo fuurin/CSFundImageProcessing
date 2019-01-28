@@ -7,8 +7,11 @@ etc/
 share/
 .ipynb_checkpoints/
 noiseRemoved/
+
 *.tiff
 *.tiffPATCHES
+
+.DS_Store
 
 pip-selfcheck.json
 pyvenv.cfg
