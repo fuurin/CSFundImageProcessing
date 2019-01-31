@@ -12,6 +12,7 @@ noiseRemoved/
 *.tiffPATCHES
 
 .DS_Store
+.zip
 
 pip-selfcheck.json
 pyvenv.cfg
