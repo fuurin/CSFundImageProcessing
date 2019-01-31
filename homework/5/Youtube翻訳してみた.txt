@@ -1,0 +1,110 @@
+https://www.youtube.com/watch?v=fFLVyWBDTfo
+
+スティーブン博士，あなたは新しい会話システムを手に入れたようですが，何がご不満なのですか？
+
+私の前のシステムはうまく動いており，そのシステムで本を5冊書きました．
+その中には，5年以上Sunday TimesでベストセラーになっているA brief history of time(ホーキング，宇宙を語る)もあります．
+それはバイブルであり，明らかに ?です．
+しかし，私の前のシステムは次の単語を予測するのにやや原始的なシステムを使っていました．
+今ではインテルがACATという，[書くのと同じぐらいのスピードで?]予測を行うプログラムを開発しました．
+
+前に使っていたシステムで最も改良を加えたかった点はどこでしたか？
+
+次の単語を予測するシステムですね．
+ACATは英語の文法と前に使った文の分析に基づく次の単語の予測リストを表示します．
+ウィンドウを切り替え[たり，インターネットを表示する?]仕組みもあります．
+
+このシステムはあなたの仕事を大きく変えましたか？
+
+最近になってやっと比較的バグの少ないバージョンのACATを手に入れることができました．
+書くスピードが非常に早くなることを期待していました．
+
+では，あなたが変えていなかったもので，声があります．
+なぜ声は変えなかったのですか？
+
+私が持っていた最初の音声合成器はほぼ理解できないものでした．
+しかし，電話帳サービス向けに設計された音声合成器はやや不自然でしたが，とても明瞭でした．
+その声は私のトレードマークとなり，より自然なイギリス英語アクセントの声に変えるつもりはありませんでした．
+コンピュータによる声が必要な子供達が，私のような声を欲しがっていると言われます．
+
+それではワイドクエスチョンです．インターネット?接続ができるようになったらどうですか？，あなたの人生はどう変わりますか？
+
+私はインターネットに最初につながれた人々の一人です．
+Paul Ginspargがxxx.lanl.govという物理のWebサイトを，インターネットの初期である1991年に作りました．
+xxxはなんだかポルノサイトのような響きなので，名前を？に変えました．
+当時Wi-fiはなく，ケーブルでのインターネット接続でした．
+私はダイアルアップ接続のためにコンピュータに取り付けられた携帯電話を持っていました．
+インターネットはコミュニケーションと研究のスピードを上げましたが，プライバシーの発明よりも価値はありませんでした？
+
+では，一般的には純粋に良い発展をもたらしたインターネットと通信量が，かえって不安の種になっているのでしょうか？
+
+インターネットは多くの利益をもたらしてくれましたが，同時にポルノ画像やメッセージの流出？のような危険をももたらしました．
+新しいGCHQ(イギリスの政府通信本部)長によると，インターネットはテロ犯罪者の司令送信に使われたそうです．
+これらの脅威に立ち向かうためインターネット会社は多くのことを行なう必要がありますが，自由とプライバシーを犠牲にせずこれらを行うのは難しいことです．
+
+あなたがソフトウェアエンジニアや機械学習の専門家に彼らの(日頃?)やっているような仕事をやらせたいとき，どれくらい完璧な人工知能になるとおもいますか？我々はどうすればいいのでしょうか？
+
+我々がすでに持っている，人工知能の原型はとても有用なものです．
+しかし，完全な人工知能の開発は人類を滅ぼすことになるかもしれません．
+一度人類が人工知能を開発すれば，ひとりでに我々の手元を離れ，かつてないスピードで自らを設計し直してゆくでしょう．
+遅い生物的な進化に制限された人類は敵わず，取って代わられてしまうでしょう．
+
+素晴らしい洞察をありがとうございます．
+誠にありがとうございました，ホーキング博士．
+
+
+Professor Stephen Hawking, you've got this new communication system.
+What was wrong with your own system?
+
+My old system worked well, and I wrote 5 books with it, including "A Brief History of Time" which was on the Sunday Times best seller at? least for over 5 years longer than the other book.
+The bible and Shakespeare? don't count apparently.
+But my old system had a rather primitive system for predicting the next word.
+Now Intel have written a new program, ACAT, which uses predictive text to speed of? writing.
+
+What was the thing you most want to changed about your old system?
+
+It was the next word prediction, I most wanted to changed.
+ACAT offers a list of predictions based on an analysis of the English language and my previous usage.
+It also has facilities for handling view? of the Internet, and? for switching windows.
+
+And has this new system made a big change to (the) what you work?
+
+It's only recently that I have had relatively bug free version of ACAT.
+I expected well? speed up my writing considerably.
+
+Now the one thing you hasn't changed is your voice.
+Why did you know (why?) your voice changed as well?
+
+The first speech synthesizer I had, was almost unintelligible. 
+But when I got a speech synthesizer which was designed for a telephone directory service,
+that voice was very clear although slightly labored.
+It has become my trade mark, and I wouldn't change it for a more natural voice with a British accent.
+I'm told that children who need a computer voice, want one like mine
+
+And a wide question. How long if you had an Internet connection, and how was that and transformed your life?
+
+I was one of the first people to be connected to the Internet.
+Paul Ginsparg launched an website, xxx.lanl.gov for physics reprinson? in 1991, at the start of the Internet.
+xxx sounds like a sex site, so it was renamed ? ?
+There was no wi-fi. 
+So connections had to be by cable.
+I had a mobile phone mounted on my computer for dial up.
+The Internet has speed up communication and research, but I'd? higher price of invention of privacy.
+
+And, is the Internet and amount of the communications in general result a purely positive development, rather a things about it that actually worry you?
+
+The Internet has broad, a lot of benefits, but it has broad ? dangerous, such as pornography, and ? of messages.
+According to the new head of PCHQ, the Internet has become a command sender for criminals of terrorists.
+More must be done by the Internet companies to counter threat, but a difficulty is to do this, without sacrificing freedom and privacy. 
+
+Then when you want software engineers and machine learning experts some work as they have been on meets? project, how far along the perfect artificial intelligence, (what?) do you think we are 
+
+The primitive forms of artificial intelligence we already have, have ? very useful. 
+But I think the development of full artificial intelligence, could spell the end of the human race.
+Once humans developed artificial intelligence, it will take off on its own, and redesign itself at an ever increasing rate. 
+Humans, who are limited by slow biologic evolution, couldn't compete, and would be superseded.
+
+Thank you for those fascinating insights.
+Thank you very much, Dr. Hawking.
+
+
